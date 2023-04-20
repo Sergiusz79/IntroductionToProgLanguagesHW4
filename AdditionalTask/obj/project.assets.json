@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\Task000\\Task000.csproj",
-      "projectName": "Task000",
-      "projectPath": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\Task000\\Task000.csproj",
+      "projectUniqueName": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\AdditionalTask\\AdditionalTask.csproj",
+      "projectName": "AdditionalTask",
+      "projectPath": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\AdditionalTask\\AdditionalTask.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\Task000\\obj\\",
+      "outputPath": "D:\\Users\\Admin\\OneDrive\\Документы\\Учёба\\Programming\\Seminar4HW\\AdditionalTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
