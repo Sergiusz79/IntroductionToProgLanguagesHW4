@@ -18,9 +18,8 @@ for (;;)
     {
     Console.WriteLine("It's not a number! ");
     }
-    double pow = Math.Pow(a , b);
 
-Console.WriteLine($" Number {a} to the power of {b} = {pow} ! ");
+Console.WriteLine($" Number {a} to the power of {b} = {Math.Pow(a , b)} ! ");
 }
 
 

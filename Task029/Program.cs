@@ -3,13 +3,34 @@
 // Например:
 // 1, 2, 5, 7, 19, 6, 1, 33 -> [1, 2, 5, 7, 19, 6, 1, 33]
 
+// Используй рандомные числа в пределах (0-1000)
 
-int[] array = {1,2,5,7,19,6,1,33};
-int lgth = array.Length;
 
-for(int i = 0; i < lgth; i++)
+
+int[] array = new int [8];
+
+FillArray(array);
+
+PrintArray(array);
+
+
+
+void FillArray(int[] array)                          
 {
-         
-       
-        Console.Write($" {array[i]}");
+int index = 0;                   
+    while (index < array.Length)
+    {
+    array[index] = new Random().Next(0, 1000); 
+    index++;                           
+    }
+}
+
+void PrintArray(int[] array)
+{
+int index = 0;
+    while (index < array.Length)
+    {
+    Console.Write($" {array[index]}");
+    index++;
+    }
 }
